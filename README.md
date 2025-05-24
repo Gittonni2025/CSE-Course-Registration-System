@@ -4,8 +4,11 @@ This is a simple yet structured C++ program that simulates a "Course Registratio
 
 📚 Learning Objective
 
--> This project is ideal for beginners learning:
--> Data structures in C++ (structs, arrays)
+-> This project is ideal for beginners learning.
+
+-> Data structures in C++ (structs, arrays, queue, enqueue, dequeue)
+
 -> Class design and queue simulation
+
 -> Real-world application of nested loops and conditional logic
 
